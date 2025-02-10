@@ -22,7 +22,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    color: #6e7888;
+    color:red;
   }
   canvas {
     background-color: #181825;
